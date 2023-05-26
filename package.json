@@ -1,0 +1,26 @@
+{
+  "name": "ue-reflection-params-5-2-0",
+  "displayName": "UE Reflection Params - 5.2.0",
+  "description": "",
+  "publisher": "boocs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boocs/UE-Reflection-Func-Params"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
